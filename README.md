@@ -1,2 +1,26 @@
-# cybershield
-CyberShield Security App is a Flutter-based solution that monitors device health, protects access with biometrics, and securely stores sensitive data. It features a dashboard for hardware audits, public IP intel, and security feeds, a gatekeeper with fingerprint/FaceID lock, and an encrypted Hive vault with optional AES encryption.
+# CyberShield 🔐
+
+CyberShield is a Flutter-based security dashboard application built as part of my Winter Break Portfolio Assignment.
+
+## 🚀 Features
+- Dashboard screen with security overview
+- Authentication gate before accessing secure vault
+- Vault screen protected by authentication
+- State management using Provider
+- Clean UI with dark theme
+
+## 🛠 Tech Stack
+- Flutter
+- Dart
+- Provider (State Management)
+- Git & GitHub
+
+## 📱 Screens
+- Dashboard
+- Auth Gate
+- Vault
+
+## 📦 How to Run
+```bash
+flutter pub get
+flutter run
